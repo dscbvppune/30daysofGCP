@@ -1,0 +1,23 @@
+.header{
+    padding: 12px 32px;
+    position: fixed;
+    top: 0;
+    width: 100vw;
+    background: #fff;
+    z-index: 4;
+}
+
+.header-text{
+    font-family: "Google Sans";
+    text-align: right;
+}
+
+.header-txt-bold{
+    font-size: 25px;
+    color: #15171c;
+}
+
+.header-chapter-name{
+    font-size: 15px;
+    color: #666666;
+}
