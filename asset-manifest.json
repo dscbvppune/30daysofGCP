@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/30daysofGCP/static/css/main.2ff181e6.chunk.css",
-    "main.js": "/30daysofGCP/static/js/main.55305d58.chunk.js",
-    "main.js.map": "/30daysofGCP/static/js/main.55305d58.chunk.js.map",
+    "main.js": "/30daysofGCP/static/js/main.1f7ab92e.chunk.js",
+    "main.js.map": "/30daysofGCP/static/js/main.1f7ab92e.chunk.js.map",
     "runtime-main.js": "/30daysofGCP/static/js/runtime-main.b16f087d.js",
     "runtime-main.js.map": "/30daysofGCP/static/js/runtime-main.b16f087d.js.map",
     "static/js/2.0e7e0d56.chunk.js": "/30daysofGCP/static/js/2.0e7e0d56.chunk.js",
     "static/js/2.0e7e0d56.chunk.js.map": "/30daysofGCP/static/js/2.0e7e0d56.chunk.js.map",
     "index.html": "/30daysofGCP/index.html",
-    "precache-manifest.6d19a2553cc95582ed64c0b482aeead1.js": "/30daysofGCP/precache-manifest.6d19a2553cc95582ed64c0b482aeead1.js",
+    "precache-manifest.195d6a9f10440cfd8639a368cf70e540.js": "/30daysofGCP/precache-manifest.195d6a9f10440cfd8639a368cf70e540.js",
     "service-worker.js": "/30daysofGCP/service-worker.js",
     "static/css/main.2ff181e6.chunk.css.map": "/30daysofGCP/static/css/main.2ff181e6.chunk.css.map",
     "static/js/2.0e7e0d56.chunk.js.LICENSE.txt": "/30daysofGCP/static/js/2.0e7e0d56.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.b16f087d.js",
     "static/js/2.0e7e0d56.chunk.js",
     "static/css/main.2ff181e6.chunk.css",
-    "static/js/main.55305d58.chunk.js"
+    "static/js/main.1f7ab92e.chunk.js"
   ]
 }
