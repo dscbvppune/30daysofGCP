@@ -31,3 +31,9 @@
     color: #fff;
     transition: 400ms;
 }
+
+@media only screen and (max-width: 992px){
+    .qwiklabs-profile-bttn{
+        margin-top: 10px;
+    }
+}

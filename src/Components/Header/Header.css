@@ -2,9 +2,13 @@
     padding: 12px 32px;
     position: fixed;
     top: 0;
-    width: 100vw;
+    width: 100%;
     background: #fff;
     z-index: 4;
+}
+
+.margin-adjust{
+    margin-top: -50px;
 }
 
 .header-text{
@@ -21,3 +25,35 @@
     font-size: 15px;
     color: #666666;
 }
+
+@media only screen and (max-width:700px){
+    .padding-removed{
+        padding-left: 0px;
+    }
+}
+
+@media only screen and (max-width:550px){
+    .dsc-logo{
+        width: 50px;
+    }
+    .margin-adjust{
+        margin-top: -30px;
+    }
+    .header-txt-bold{
+        font-size: 20px;
+    }
+    .header-chapter-name{
+        font-size: 10px;
+    }
+
+}
+
+@media only screen and (max-width:370px){
+  .dsc-logo{
+      margin-left: -15px;
+  }
+  .margin-adjust{
+      margin-right: -15px;
+  }
+}
+
