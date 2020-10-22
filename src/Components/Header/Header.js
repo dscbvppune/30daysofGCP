@@ -8,12 +8,12 @@ class Header extends React.Component{
     render(){
         return(
             <div className="header">
-                <div className="container-fluid">
+                <div className="container-fluid padding-removed">
                     <div className="row">
-                        <div className="col-md-3">
-                            <img src={dscLogo} className="img-responsive" alt="DSC Logo" />
+                        <div className="col-3 dsc-logo">
+                            <img src={dscLogo} className="img-responsive " alt="DSC Logo" />
                         </div>
-                        <div className="col-md-6 col-md-offset-3">
+                        <div className="col-6 col-md-offset-3 margin-adjust">
                             <div className="row">
                             <div className="row">
                                 <div className="col-md-10 col-md-offset-2 header-text header-txt-bold">
