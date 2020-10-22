@@ -1,5 +1,5 @@
 .footer{
-    position: relative;
+    position: fixed;
     width: 100%;
     bottom: 0;
     font-family: "Google Sans";
@@ -7,4 +7,8 @@
     background: #fff;
     padding: 32px 0;
     border-top: 2px solid #15171c;
+}
+
+.heart-icon{
+	color: #db332e;
 }

@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Leaderboard",
+  "name": "30 Days of Google Cloud Leaderboard",
   "icons": [
     {
       "src": "favicon.ico",

@@ -45,7 +45,7 @@ class Results extends React.Component{
 
         if(this.state.iteratedOnce === false){
             this.setState({
-                list: list.sort((a, b) => ((b.numOfSkillBadgesCompletedInOne + b.numOfSkillBadgesCompletedInTwo) - (a.numOfSkillBadgesCompletedInOne + a.numOfSkillBadgesCompletedInTwo))),
+                list: list.sort((a, b) => ((parseInt(b.numOfSkillBadgesCompletedInOne) + parseInt(b.numOfSkillBadgesCompletedInTwo)) - (parseInt(a.numOfSkillBadgesCompletedInOne) + parseInt(a.numOfSkillBadgesCompletedInTwo)))),
                 iteratedOnce: true
             })
         }
